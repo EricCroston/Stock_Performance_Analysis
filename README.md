@@ -41,5 +41,8 @@ All three of the following are uploaded to GitHub/GitLab:
 Sources
 
 https://powerspreadsheets.com/excel-vba-cell-empty/
-Used to learn how to use the IsEmpty() function
+Used for the IsEmpty() function
+
+https://www.excelmojo.com/vba-conditional-formatting/
+Used for conditional formatting
 
