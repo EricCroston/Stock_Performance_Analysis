@@ -46,3 +46,5 @@ Used for the IsEmpty() function
 https://www.excelmojo.com/vba-conditional-formatting/
 Used for conditional formatting
 
+https://support.microsoft.com/en-us/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0
+Used for looping through all the sheets
